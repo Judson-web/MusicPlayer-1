@@ -618,5 +618,5 @@ async def left_vc(_, chat_id: int):
         clear_queue(chat_id)
 
 
-print("Music Player UserBot Started!")
+print("█▀▄▀█ █░█ █▀ █ █▀▀   █▀█ █░░ ▄▀█ █▄█ █▀▀ █▀█   █░█ █▀ █▀▀ █▀█ █▄▄ █▀█ ▀█▀   █▀ ▀█▀ ▄▀█ █▀█ ▀█▀ █▀▀ █▀▄ █\n█░▀░█ █▄█ ▄█ █ █▄▄   █▀▀ █▄▄ █▀█ ░█░ ██▄ █▀▄   █▄█ ▄█ ██▄ █▀▄ █▄█ █▄█ ░█░   ▄█ ░█░ █▀█ █▀▄ ░█░ ██▄ █▄▀ ▄")
 pytgcalls.run()
